@@ -1,5 +1,4 @@
-% NASTOS VIKTOR 
-%AEM 9297
+
 tspan = [0 25];
 y0 = [15 50];
 
